@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Sep 2018 17:04:23 at https://iqonicthemes.com/themes/qwilo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2t%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://iqonicthemes.com/themes/qwilo/index.html -O1 "C:\My Web Sites\qwilo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:04:23	Warning: 	Cache: damaged cache, trying to repair
+17:04:23	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+17:04:23	Warning: 	Cache: error trying to open the cache
+17:09:05	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/images/shop/01.jpg (from https://iqonicthemes.com/themes/qwilo/index.html)
+17:17:54	Warning: 	File not parsed, looks like binary: https://iqonicthemes.com/themes/qwilo/fonts/fontawesome-webfont.woff2?v=4.7.0
+17:17:55	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/css/owl-carousel/owl.video.play.png (from https://iqonicthemes.com/themes/qwilo/css/owl-carousel/owl.carousel.css)
+17:17:55	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/revolution/css/openhand.cur (from https://iqonicthemes.com/themes/qwilo/revolution/css/settings.css)
+17:17:56	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/revolution/css/closedhand.cur (from https://iqonicthemes.com/themes/qwilo/revolution/css/settings.css)
+17:17:56	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/revolution/assets/gridtile.png (from https://iqonicthemes.com/themes/qwilo/revolution/css/settings.css)
+17:17:56	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/revolution/assets/gridtile_white.png (from https://iqonicthemes.com/themes/qwilo/revolution/css/settings.css)
+17:17:56	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/revolution/assets/gridtile_3x3.png (from https://iqonicthemes.com/themes/qwilo/revolution/css/settings.css)
+17:17:56	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/revolution/assets/gridtile_3x3_white.png (from https://iqonicthemes.com/themes/qwilo/revolution/css/settings.css)
+17:17:56	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/images/pattern/pattern-2.png (from https://iqonicthemes.com/themes/qwilo/css/style.css)
+17:17:56	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/blog-classicbar.html (from https://iqonicthemes.com/themes/qwilo/home-2.html)
+17:17:57	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/blog-grid-2-columnbar.html (from https://iqonicthemes.com/themes/qwilo/home-2.html)
+17:17:57	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/blog-masonry-2-columnsbar.html (from https://iqonicthemes.com/themes/qwilo/home-2.html)
+17:17:57	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/about-details.html (from https://iqonicthemes.com/themes/qwilo/home-4.html)
+17:18:29	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/images/bg/bg-8.png (from https://iqonicthemes.com/themes/qwilo/services-details-1.html)
+17:18:29	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/blog-details.html (from https://iqonicthemes.com/themes/qwilo/pricing-1.html)
+17:18:29	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/services-details.html (from https://iqonicthemes.com/themes/qwilo/pricing-4.html)
+17:18:29	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/video/01.mp4 (from https://iqonicthemes.com/themes/qwilo/blog-classic-left-sidebar.html)
+17:18:29	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/images/portfolio/masonry/08.jpg (from https://iqonicthemes.com/themes/qwilo/full-classic-masonry-3-portfolio-no-space.html)
+17:18:38	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/images/shop/thumb/deal.jpg (from https://iqonicthemes.com/themes/qwilo/shop-detail-left-sidebar.html)
+17:18:38	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-bg_diagonals-small_50_ff3853_40x40.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:38	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-icons_c02669_256x240.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-icons_e1e463_256x240.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-icons_ffffff_256x240.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-icons_454545_256x240.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Not Found" (404) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-icons_88a206_256x240.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-icons_ffeb33_256x240.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-bg_white-lines_85_f7f7ba_40x100.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/images/ui-bg_flat_75_ba9217_40x100.png (from https://iqonicthemes.com/themes/qwilo/css/jquery-ui.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/slick/ajax-loader.gif (from https://iqonicthemes.com/themes/qwilo/css/slick/slick-theme.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/slick/fonts/slick.eot (from https://iqonicthemes.com/themes/qwilo/css/slick/slick-theme.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/slick/fonts/slick.eot? (from https://iqonicthemes.com/themes/qwilo/css/slick/slick-theme.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/slick/fonts/slick.woff (from https://iqonicthemes.com/themes/qwilo/css/slick/slick-theme.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/slick/fonts/slick.ttf (from https://iqonicthemes.com/themes/qwilo/css/slick/slick-theme.css)
+17:18:39	Error: 	"Service Temporarily Unavailable" (503) at link https://iqonicthemes.com/themes/qwilo/css/slick/fonts/slick.svg (from https://iqonicthemes.com/themes/qwilo/css/slick/slick-theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 16 seconds : 752 links scanned, 717 files written (68334793 bytes overall) [54640680 bytes received at 63832 bytes/sec], 18832343 bytes transferred using HTTP compression in 345 files, ratio 19%, 21.4 requests per connection
+(34 errors, 4 warnings, 0 messages)

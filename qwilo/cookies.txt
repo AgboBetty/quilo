@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+iqonicthemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	cel3b5fulgmposnn3iu2o2j4h0
+.iqonicthemes.com	TRUE	/	FALSE	1999999999	__cfduid	d879d1595119ce25397682726125dd7471537805916
+
